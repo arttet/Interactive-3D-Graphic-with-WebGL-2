@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    "incremental": true,
+    "target": "es6",
+    "module": "commonjs",
+    // "lib": [],                                   /* Specify library files to be included in the compilation. */
+    "allowJs": true, /* Allow javascript files to be compiled. */
+    "declaration": true, /* Generates corresponding '.d.ts' file. */
+    "declarationMap": true, /* Generates a sourcemap for each corresponding '.d.ts' file. */
+    "sourceMap": false, /* Generates corresponding '.map' file. */
+    "removeComments": true, /* Do not emit comments to output. */
+    /* Strict Type-Checking Options */
+    "strict": true, /* Enable all strict type-checking options. */
+    "noImplicitAny": false, /* Raise error on expressions and declarations with an implied 'any' type. */
+    "strictNullChecks": true, /* Enable strict null checks. */
+    /* Additional Checks */
+    "noUnusedLocals": true, /* Report errors on unused locals. */
+    "noUnusedParameters": true, /* Report errors on unused parameters. */
+    "noImplicitReturns": true, /* Report error when not all code paths in function return a value. */
+    "noFallthroughCasesInSwitch": true, /* Report errors for fallthrough cases in switch statement. */
+    "noUncheckedIndexedAccess": true, /* Include 'undefined' in index signature results */
+    "noPropertyAccessFromIndexSignature": true, /* Require undeclared properties from index signatures to use element accesses. */
+    /* Module Resolution Options */
+    "esModuleInterop": true, /* Enables emit interoperability between CommonJS and ES Modules via creation of namespace objects for all imports. Implies 'allowSyntheticDefaultImports'. */
+    /* Advanced Options */
+    "skipLibCheck": true, /* Skip type checking of declaration files. */
+    "forceConsistentCasingInFileNames": true /* Disallow inconsistently-cased references to the same file. */
+  },
+}
